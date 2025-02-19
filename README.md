@@ -1,4 +1,4 @@
-# Machine Learning for Business Analytics
+# Dennis Wang
 
 # Purpose
 
@@ -18,3 +18,4 @@ Looking for junior data analyst position in healthcare indstury
 - Risk Management
 - Financial Analysis
 - Financial Statement Analysis
+- Python and R Studio
