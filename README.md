@@ -12,3 +12,9 @@ Looking for junior data analyst position in healthcare indstury
 # Experience
 
 - Tunghai University
+
+# Skills
+
+- Risk Management
+- Financial Analysis
+- Financial Statement Analysis
